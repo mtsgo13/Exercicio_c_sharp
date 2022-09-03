@@ -1,0 +1,14 @@
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\bin\Debug\netcoreapp3.1\exercicio_proposto2.7.exe
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\bin\Debug\netcoreapp3.1\exercicio_proposto2.7.deps.json
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\bin\Debug\netcoreapp3.1\exercicio_proposto2.7.runtimeconfig.json
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\bin\Debug\netcoreapp3.1\exercicio_proposto2.7.runtimeconfig.dev.json
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\bin\Debug\netcoreapp3.1\exercicio_proposto2.7.dll
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\bin\Debug\netcoreapp3.1\exercicio_proposto2.7.pdb
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.csproj.AssemblyReference.cache
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.AssemblyInfoInputs.cache
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.AssemblyInfo.cs
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.csproj.CoreCompileInputs.cache
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.dll
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.pdb
+D:\curso\exercicio_proposto2.7\exercicio_proposto2.7\obj\Debug\netcoreapp3.1\exercicio_proposto2.7.genruntimeconfig.cache

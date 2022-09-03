@@ -1,0 +1,14 @@
+D:\curso\exercicio_proposto6\exercicio_proposto6\bin\Debug\netcoreapp3.1\exercicio_proposto6.exe
+D:\curso\exercicio_proposto6\exercicio_proposto6\bin\Debug\netcoreapp3.1\exercicio_proposto6.deps.json
+D:\curso\exercicio_proposto6\exercicio_proposto6\bin\Debug\netcoreapp3.1\exercicio_proposto6.runtimeconfig.json
+D:\curso\exercicio_proposto6\exercicio_proposto6\bin\Debug\netcoreapp3.1\exercicio_proposto6.runtimeconfig.dev.json
+D:\curso\exercicio_proposto6\exercicio_proposto6\bin\Debug\netcoreapp3.1\exercicio_proposto6.dll
+D:\curso\exercicio_proposto6\exercicio_proposto6\bin\Debug\netcoreapp3.1\exercicio_proposto6.pdb
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.csproj.AssemblyReference.cache
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.AssemblyInfoInputs.cache
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.AssemblyInfo.cs
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.csproj.CoreCompileInputs.cache
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.dll
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.pdb
+D:\curso\exercicio_proposto6\exercicio_proposto6\obj\Debug\netcoreapp3.1\exercicio_proposto6.genruntimeconfig.cache

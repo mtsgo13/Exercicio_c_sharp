@@ -1,0 +1,14 @@
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.csproj.AssemblyReference.cache
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.AssemblyInfoInputs.cache
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.AssemblyInfo.cs
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.csproj.CoreCompileInputs.cache
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\bin\Debug\netcoreapp3.1\exeercicio_propostos2.5.exe
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\bin\Debug\netcoreapp3.1\exeercicio_propostos2.5.deps.json
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\bin\Debug\netcoreapp3.1\exeercicio_propostos2.5.runtimeconfig.json
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\bin\Debug\netcoreapp3.1\exeercicio_propostos2.5.runtimeconfig.dev.json
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\bin\Debug\netcoreapp3.1\exeercicio_propostos2.5.dll
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\bin\Debug\netcoreapp3.1\exeercicio_propostos2.5.pdb
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.dll
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.pdb
+D:\curso\exeercicio_propostos2.5\exeercicio_propostos2.5\obj\Debug\netcoreapp3.1\exeercicio_propostos2.5.genruntimeconfig.cache

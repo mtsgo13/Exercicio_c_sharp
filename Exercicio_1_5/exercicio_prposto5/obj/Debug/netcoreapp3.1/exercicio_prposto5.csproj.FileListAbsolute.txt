@@ -1,0 +1,13 @@
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.AssemblyInfoInputs.cache
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.AssemblyInfo.cs
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.csproj.CoreCompileInputs.cache
+D:\curso\exercicio_prposto5\exercicio_prposto5\bin\Debug\netcoreapp3.1\exercicio_prposto5.exe
+D:\curso\exercicio_prposto5\exercicio_prposto5\bin\Debug\netcoreapp3.1\exercicio_prposto5.deps.json
+D:\curso\exercicio_prposto5\exercicio_prposto5\bin\Debug\netcoreapp3.1\exercicio_prposto5.runtimeconfig.json
+D:\curso\exercicio_prposto5\exercicio_prposto5\bin\Debug\netcoreapp3.1\exercicio_prposto5.runtimeconfig.dev.json
+D:\curso\exercicio_prposto5\exercicio_prposto5\bin\Debug\netcoreapp3.1\exercicio_prposto5.dll
+D:\curso\exercicio_prposto5\exercicio_prposto5\bin\Debug\netcoreapp3.1\exercicio_prposto5.pdb
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.dll
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.pdb
+D:\curso\exercicio_prposto5\exercicio_prposto5\obj\Debug\netcoreapp3.1\exercicio_prposto5.genruntimeconfig.cache

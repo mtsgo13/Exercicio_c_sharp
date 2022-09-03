@@ -1,0 +1,14 @@
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\bin\Debug\netcoreapp3.1\Exercicio_fixação.exe
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\bin\Debug\netcoreapp3.1\Exercicio_fixação.deps.json
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\bin\Debug\netcoreapp3.1\Exercicio_fixação.runtimeconfig.json
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\bin\Debug\netcoreapp3.1\Exercicio_fixação.runtimeconfig.dev.json
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\bin\Debug\netcoreapp3.1\Exercicio_fixação.dll
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\bin\Debug\netcoreapp3.1\Exercicio_fixação.pdb
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.csproj.AssemblyReference.cache
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.AssemblyInfoInputs.cache
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.AssemblyInfo.cs
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.csproj.CoreCompileInputs.cache
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.dll
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.pdb
+D:\Curso_C#\Exercicio_fixação\Exercicio_fixação\obj\Debug\netcoreapp3.1\Exercicio_fixação.genruntimeconfig.cache

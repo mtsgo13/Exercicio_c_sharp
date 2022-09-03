@@ -1,0 +1,14 @@
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.1\Exercicio_vetor.exe
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.1\Exercicio_vetor.deps.json
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.1\Exercicio_vetor.runtimeconfig.json
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.1\Exercicio_vetor.runtimeconfig.dev.json
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.1\Exercicio_vetor.dll
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\bin\Debug\netcoreapp3.1\Exercicio_vetor.pdb
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.csproj.AssemblyReference.cache
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.AssemblyInfoInputs.cache
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.AssemblyInfo.cs
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.csproj.CoreCompileInputs.cache
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.dll
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.pdb
+D:\Curso_C#\Exercicio_vetor\Exercicio_vetor\obj\Debug\netcoreapp3.1\Exercicio_vetor.genruntimeconfig.cache

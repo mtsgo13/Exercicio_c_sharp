@@ -1,0 +1,14 @@
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.AssemblyInfoInputs.cache
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.AssemblyInfo.cs
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.csproj.CoreCompileInputs.cache
+D:\curso\exercicio_proposto4\exercicio_proposto4\bin\Debug\netcoreapp3.1\exercicio_proposto4.exe
+D:\curso\exercicio_proposto4\exercicio_proposto4\bin\Debug\netcoreapp3.1\exercicio_proposto4.deps.json
+D:\curso\exercicio_proposto4\exercicio_proposto4\bin\Debug\netcoreapp3.1\exercicio_proposto4.runtimeconfig.json
+D:\curso\exercicio_proposto4\exercicio_proposto4\bin\Debug\netcoreapp3.1\exercicio_proposto4.runtimeconfig.dev.json
+D:\curso\exercicio_proposto4\exercicio_proposto4\bin\Debug\netcoreapp3.1\exercicio_proposto4.dll
+D:\curso\exercicio_proposto4\exercicio_proposto4\bin\Debug\netcoreapp3.1\exercicio_proposto4.pdb
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.dll
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.pdb
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.genruntimeconfig.cache
+D:\curso\exercicio_proposto4\exercicio_proposto4\obj\Debug\netcoreapp3.1\exercicio_proposto4.csproj.AssemblyReference.cache

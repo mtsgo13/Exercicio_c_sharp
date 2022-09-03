@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exerccios_proposto2/1.0.0": {
+        "runtime": {
+          "exerccios_proposto2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerccios_proposto2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

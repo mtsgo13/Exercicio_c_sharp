@@ -1,0 +1,14 @@
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\bin\Debug\netcoreapp3.1\exercicos_propostos2.1.exe
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\bin\Debug\netcoreapp3.1\exercicos_propostos2.1.deps.json
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\bin\Debug\netcoreapp3.1\exercicos_propostos2.1.runtimeconfig.json
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\bin\Debug\netcoreapp3.1\exercicos_propostos2.1.runtimeconfig.dev.json
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\bin\Debug\netcoreapp3.1\exercicos_propostos2.1.dll
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\bin\Debug\netcoreapp3.1\exercicos_propostos2.1.pdb
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.csproj.AssemblyReference.cache
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.AssemblyInfoInputs.cache
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.AssemblyInfo.cs
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.csproj.CoreCompileInputs.cache
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.dll
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.pdb
+D:\curso\exercicos_propostos2.1\exercicos_propostos2.1\obj\Debug\netcoreapp3.1\exercicos_propostos2.1.genruntimeconfig.cache

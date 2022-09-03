@@ -1,0 +1,13 @@
+D:\curso\exerciosProposto\exerciosProposto\bin\Debug\netcoreapp3.1\exerciosProposto.exe
+D:\curso\exerciosProposto\exerciosProposto\bin\Debug\netcoreapp3.1\exerciosProposto.deps.json
+D:\curso\exerciosProposto\exerciosProposto\bin\Debug\netcoreapp3.1\exerciosProposto.runtimeconfig.json
+D:\curso\exerciosProposto\exerciosProposto\bin\Debug\netcoreapp3.1\exerciosProposto.runtimeconfig.dev.json
+D:\curso\exerciosProposto\exerciosProposto\bin\Debug\netcoreapp3.1\exerciosProposto.dll
+D:\curso\exerciosProposto\exerciosProposto\bin\Debug\netcoreapp3.1\exerciosProposto.pdb
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.AssemblyInfoInputs.cache
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.AssemblyInfo.cs
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.csproj.CoreCompileInputs.cache
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.dll
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.pdb
+D:\curso\exerciosProposto\exerciosProposto\obj\Debug\netcoreapp3.1\exerciosProposto.genruntimeconfig.cache

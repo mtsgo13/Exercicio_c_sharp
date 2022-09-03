@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4lEI1zT7Q3QjzUey8bVjZuOFBusiwUwbZmUYxXPwKXCtUC8VabwuUPsofsL8/v8Op30opolMPgbddWa30GRsQ==",
+  "success": true,
+  "projectFilePath": "D:\\curso\\Exercicio_4_3\\Exercicio_4_3\\Exercicio_4_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
