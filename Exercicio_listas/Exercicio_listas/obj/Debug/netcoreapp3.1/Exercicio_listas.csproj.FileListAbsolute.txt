@@ -1,0 +1,14 @@
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.1\Exercicio_listas.exe
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.1\Exercicio_listas.deps.json
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.1\Exercicio_listas.runtimeconfig.json
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.1\Exercicio_listas.runtimeconfig.dev.json
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.1\Exercicio_listas.dll
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\bin\Debug\netcoreapp3.1\Exercicio_listas.pdb
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.csproj.AssemblyReference.cache
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.AssemblyInfoInputs.cache
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.AssemblyInfo.cs
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.csproj.CoreCompileInputs.cache
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.dll
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.pdb
+D:\Curso_C#\Exercicio_listas\Exercicio_listas\obj\Debug\netcoreapp3.1\Exercicio_listas.genruntimeconfig.cache
